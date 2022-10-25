@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/ks6088ts/d85823f2-0fe5-483d-97bc-521efd3cb50e/a7a3daf7-a04f-4f4b-8ad6-17a1a05bfca8/_apis/work/boardbadge/d80dadf6-6f80-4748-8597-596aab1c9da8)](https://dev.azure.com/ks6088ts/d85823f2-0fe5-483d-97bc-521efd3cb50e/_boards/board/t/a7a3daf7-a04f-4f4b-8ad6-17a1a05bfca8/Microsoft.EpicCategory)
